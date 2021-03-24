@@ -5,7 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 Clone the project
 
-### `git clone <clone_url>`
+### `git clone https://github.com/assimatagba/whatsapp-clone.git`
 
 In the project directory, you can run:
 
